@@ -16,4 +16,4 @@ spec:
       - name: apache2
         image: apahce2:2.4.59-2
 	ports:
- 	- containerPort: 80
+ 	- containerPort: 443
